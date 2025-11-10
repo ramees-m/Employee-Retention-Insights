@@ -97,8 +97,7 @@ By applying data analytics, businesses can build more supportive and productive 
 
 ### 👤 Author
 **Ramees**  
-📧 [your.email@example.com]  
-💻 [LinkedIn / Portfolio link]
+
 
 ---
 
